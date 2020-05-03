@@ -1,0 +1,3 @@
+Search the input file line by line for a given string. 
+The output must contain the line number, followed by the contents of the line that contains the search argument. 
+For instance given the following the search string:  Java, the program would search the file line by line generating a result such as the 
